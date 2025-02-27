@@ -1,6 +1,6 @@
 {
-    "name":        "arcanedev/support",
-    "description": "ARCANEDEV Support Helpers",
+    "name":        "aliakel/log-viewer-support",
+    "description": "Log Viewer Support Helpers",
     "keywords":    ["arcanedev", "arcanesoft", "support", "laravel"],
     "homepage":    "https://github.com/ARCANEDEV/Support",
     "authors": [
